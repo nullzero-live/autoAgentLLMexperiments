@@ -1,0 +1,7 @@
+- Langchain
+- OpenAI API
+- Pinecone or 
+- Google GCP for Deployment (CI/CD)
+- MLOps Pipeline When Model is Configured
+- Pandas
+- NumPy
